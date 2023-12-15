@@ -1,0 +1,283 @@
+@import url("https://free.bboxtype.com/embedfonts/?family=FiraGO:400");
+
+@import url("https://fonts.cdnfonts.com/css/helvetica-neue-5");
+
+@import url("//cdn.web-fonts.ge/fonts/bpg-nino-mkhedruli/css/bpg-nino-mkhedruli.min.css");
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
+.header {
+  display: inline-block;
+  margin: 100px;
+}
+
+.navigation {
+  color: #8d81ff;
+  font-family: FiraGO;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 60px;
+}
+
+.active {
+  color: #4e6fae;
+}
+
+.logo {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 54px;
+  margin-right: 60px;
+  margin-top: 54px;
+  margin-bottom: 44px;
+}
+
+.list {
+  display: inline-block;
+}
+
+.container {
+  width: 1291px;
+  margin: 0 auto;
+}
+
+.container1 {
+  width: 1054px;
+  margin: 0 auto;
+}
+
+.container2 {
+  margin: 0 auto;
+  height: 735px;
+  background-color: #e7e7e7;
+}
+
+footer {
+  display: block;
+  margin-top: 100px;
+  margin-bottom: 200px;
+}
+
+.line {
+  margin-left: 41px;
+  margin-right: 41px;
+}
+
+.date {
+  width: 50px;
+  height: 50px;
+  background-color: #5012d5;
+  padding: 10px;
+  color: #84ff81;
+  font-family: Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+h2 {
+  color: #8d81ff;
+  font-family: FiraGO;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 13px;
+}
+
+h3 {
+  color: #4e6fae;
+  font-family: FiraGO;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding-top: 17px;
+  padding-bottom: 25px;
+}
+
+p {
+  color: #4e6fae;
+  font-family: FiraGO;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  display: inline-block;
+  margin-bottom: 13px;
+  margin-left: 66px;
+}
+
+.html-list {
+  color: #4e6fae;
+  font-family: FiraGO;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  display: inline-block;
+  list-style: numbers;
+  margin-left: 80px;
+  margin-top: 0px;
+}
+
+.photo {
+  display: inline-block;
+  height: 447px;
+  width: 280px;
+  margin-right: 166px;
+}
+
+.text {
+  width: 778px;
+  height: 281px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.article-box {
+  margin-bottom: 20px;
+}
+
+.article-box-third {
+  display: block;
+}
+
+.third-paragraph {
+  margin-left: 0px;
+  margin-top: 32px;
+}
+
+.html-purple {
+  margin-top: 65px;
+  margin-bottom: 100px;
+  width: 1052px;
+  height: 462px;
+  vertical-align: middle;
+}
+
+h4 {
+  color: #4e6fae;
+  font-family: FiraGO;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.unbolded {
+  font-weight: 400;
+}
+
+.news-header {
+  display: block;
+  margin-top: 100px;
+  margin-bottom: 26px;
+}
+
+.b1 {
+  display: inline-block;
+}
+
+.b2 {
+  display: inline-block;
+  margin-left: 18px;
+  margin-right: 18px;
+}
+
+.b3 {
+  display: inline-block;
+}
+
+.greybox {
+  height: 192px;
+  width: 500px;
+  background-color: #e7e7e7;
+  display: inline-block;
+  margin-right: 25px;
+}
+
+.icon {
+  display: inline-block;
+  height: 77px;
+  width: 77px;
+  margin-right: 20px;
+  margin-bottom: 41px;
+  margin-left: 20px;
+  vertical-align: top;
+}
+
+.greytext {
+  display: inline-block;
+  width: 335px;
+  height: 95px;
+  color: #7e8898;
+  color: #7e8898;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  vertical-align: top;
+}
+
+h5 {
+  color: #3f4145;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 21px;
+}
+
+.contactinfo {
+  width: 500px;
+  height: 190px;
+  display: inline-block;
+  margin-top: 93px;
+  margin-bottom: 455px;
+  vertical-align: top;
+  margin-left: 100px;
+}
+
+h1 {
+  font-family: Helvetica Neue;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 44px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #4e6fae;
+}
+
+h6 {
+  font-family: Helvetica Neue LT GEO;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-top: 15px;
+}
+
+.parameter {
+  color: #7e8898;
+}
+
+.value {
+  color: #3f4145;
+}
+
+.map {
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 93px;
+  margin-right: 0px;
+  margin-left: 10px;
+}
